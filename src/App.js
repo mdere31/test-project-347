@@ -9,9 +9,9 @@ function App() {
         <p>
           Test project. It is working!!!
         </p>
-        <small>
-          version 1.1
-        </small>
+        <h1>
+          Version 1.1
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
